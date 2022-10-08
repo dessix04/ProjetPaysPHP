@@ -1,0 +1,7 @@
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="1e3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5 3" height="600">
+ <desc>Flag of Germany</desc>
+ <rect height="3" width="5" y="0" x="0"/>
+ <rect height="2" width="5" y="1" x="0" fill="#D00"/>
+ <rect height="1" width="5" y="2" x="0" fill="#FFCE00"/>
+</svg>

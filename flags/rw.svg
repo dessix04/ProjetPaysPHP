@@ -1,0 +1,15 @@
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 720">
+ <title>Flag of Rwanda</title>
+ <rect width="1080" fill="#00a1de" height="360"/>
+ <rect y="360" width="1080" fill="#fad201" height="180"/>
+ <rect y="540" width="1080" fill="#20603d" height="180"/>
+ <g transform="translate(886.5,188.1)">
+  <g id="h">
+   <path id="q" fill="#e5be01" d="m116.1 0l-80.408 4.6989 76.448 25.35-78.88-16.272 67.29 44.273-71.989-36.135 53.534 60.18-60.18-53.534 36.135 71.989-44.273-67.29 16.272 78.88-25.35-76.448-4.699 80.408-1-117.1z"/>
+   <use xlink:href="#q" transform="scale(1,-1)"/>
+  </g>
+  <use xlink:href="#h" transform="scale(-1,1)"/>
+  <circle stroke-width="3.4" stroke="#00a1de" r="34.3" fill="#e5be01"/>
+ </g>
+</svg>

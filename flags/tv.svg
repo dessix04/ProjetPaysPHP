@@ -1,0 +1,32 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 500" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <clipPath id="p">
+   <path d="m300 150h300v150zv150h-300zh-300v-150zv-150h300z"/>
+  </clipPath>
+  <clipPath id="q">
+   <rect width="600" height="300"/>
+  </clipPath>
+  <g id="s" transform="scale(1.0079)">
+   <polygon points="511.95 324.28 533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21" transform="matrix(.42409 0 0 .42497 32.938 19.241)" fill="#ffce00"/>
+  </g>
+ </defs>
+ <rect width="1e3" fill="#5b97b1" height="500"/>
+ <g transform="scale(.83333)">
+  <rect width="600" fill="#00247d" height="300"/>
+  <g stroke-width="60" stroke="#fff" fill="none">
+   <path d="m0 0l600 300m0-300l-600 300" clip-path="url(#q)"/>
+   <path stroke-width="40" d="m0 0l600 300m0-300l-600 300" stroke="#cf142b" clip-path="url(#p)"/>
+   <path stroke-width="100" d="m300 0v300m-300-150h600"/>
+   <path d="m300 0v300m-300-150h600" stroke="#cf142b"/>
+  </g>
+ </g>
+ <use y="-98.259903" x="657.66272" xlink:href="#s"/>
+ <use y="153.87309" x="569.00061" xlink:href="#s"/>
+ <use y="96.796822" x="657.66278" xlink:href="#s"/>
+ <use y="279.6626" x="276.41541" xlink:href="#s"/>
+ <use xlink:href="#s" transform="matrix(-1 0 0 -1 918.06 489.94)"/>
+ <use xlink:href="#s" transform="matrix(-1 0 0 -1 1023.1 344.72)"/>
+ <use xlink:href="#s" transform="matrix(-1 0 0 -1 1111.3 314.56)"/>
+ <use xlink:href="#s" transform="matrix(-1 0 0 -1 1023.1 565.9)"/>
+ <use xlink:href="#s" transform="matrix(-1 0 0 -1 918.06 591.59)"/>
+</svg>

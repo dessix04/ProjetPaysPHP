@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 250">
+ <rect width="500" fill="#0099b5" height="80"/>
+ <rect y="80" width="500" fill="#ce1126" height="90"/>
+ <rect y="85" width="500" fill="#fff" height="80"/>
+ <rect y="170" width="500" fill="#1eb53a" height="80"/>
+ <circle cy="40" cx="70" r="30" fill="#fff"/>
+ <circle cy="40" cx="80" r="30" fill="#0099b5"/>
+ <g id="s" fill="#fff" transform="translate(88,64)">
+  <g id="c">
+   <path id="t" transform="rotate(18 0,-6)" d="m0-6v6h3"/>
+   <use xlink:href="#t" transform="scale(-1,1)"/>
+  </g>
+  <use xlink:href="#c" transform="rotate(72)"/>
+  <use xlink:href="#c" transform="rotate(144)"/>
+  <use xlink:href="#c" transform="rotate(216)"/>
+  <use xlink:href="#c" transform="rotate(288)"/>
+ </g>
+ <use x="24" xlink:href="#s"/>
+ <use x="48" xlink:href="#s"/>
+ <use x="72" xlink:href="#s"/>
+ <use x="96" xlink:href="#s"/>
+ <use y="-24" x="24" xlink:href="#s"/>
+ <use y="-24" x="48" xlink:href="#s"/>
+ <use y="-24" x="72" xlink:href="#s"/>
+ <use y="-24" x="96" xlink:href="#s"/>
+ <use y="-48" x="48" xlink:href="#s"/>
+ <use y="-48" x="72" xlink:href="#s"/>
+ <use y="-48" x="96" xlink:href="#s"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="450" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" height="300">
+ <title>Flag of the Central African Republic</title>
+ <rect y="0" width="1200" fill="#003082" x="0" height="200"/>
+ <rect y="200" width="1200" fill="#FFF" x="0" height="200"/>
+ <rect y="400" width="1200" fill="#289728" x="0" height="200"/>
+ <rect y="600" width="1200" fill="#FFCE00" x="0" height="200"/>
+ <rect y="0" width="200" fill="#D21034" x="500" height="800"/>
+ <polygon points="0 -1 0.22451 -0.30902 0.95106 -0.30902 0.36327 0.11803 0.58779 0.80902 0 0.38197 -0.58779 0.80902 -0.36327 0.11803 -0.95106 -0.30902 -0.22451 -0.30902" transform="translate(200 108.59) scale(90)" fill="#FFCE00"/>
+</svg>

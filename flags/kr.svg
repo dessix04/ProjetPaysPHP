@@ -1,0 +1,17 @@
+<svg viewBox="-36 -24 72 48" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600">
+ <title>Flag of South Korea</title>
+ <rect y="-24" x="-36" height="48" width="72" fill="#fff"/>
+ <g transform="rotate(-56.31)">
+  <g id="b2">
+   <path id="b" stroke="#000" stroke-width="2" d="m-6-25h12m-12 3h12m-12 3h12"/>
+   <use y="44" xlink:href="#b"/>
+  </g>
+  <path stroke="#fff" d="m0 17v10"/>
+  <circle r="12" fill="#c60c30"/>
+  <path d="m0-12a6 6 0 0 0 0 12 6 6 0 0 1 0 12 12 12 0 0 1 0 -24z" fill="#003478"/>
+ </g>
+ <g transform="rotate(236.31)">
+  <use xlink:href="#b2"/>
+  <path stroke="#fff" d="m0-23.5v3m0 37.5v3.5m0 3v3"/>
+ </g>
+</svg>

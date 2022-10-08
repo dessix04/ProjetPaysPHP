@@ -1,0 +1,36 @@
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 600">
+ <defs>
+  <clipPath id="Canton">
+   <path d="m0 0h600v300h-600z"/>
+  </clipPath>
+  <clipPath id="Diagonals">
+   <path d="m0 0l300 150h-300zm300 0h300l-300 150zm0 150h300v150zv150h-300z"/>
+  </clipPath>
+  <g id="Pentagram">
+   <g id="Arm" transform="translate(0 -.32492)">
+    <path d="m0 0v0.5l1-0.5z"/>
+    <path d="m0 0v-0.5l1 0.5z" transform="rotate(-36,1,0)"/>
+   </g>
+   <use xlink:href="#Arm" transform="scale(-1,1)"/>
+   <use xlink:href="#Arm" transform="rotate(72)"/>
+   <use xlink:href="#Arm" transform="rotate(-72)"/>
+   <use xlink:href="#Arm" transform="rotate(-72) scale(-1 1)"/>
+  </g>
+ </defs>
+ <rect y="0" x="0" height="600" width="1200" fill="#00247d"/>
+ <path clip-path="url(#Canton)" stroke="#fff" stroke-width="60" d="m0 0l600 300m-600 0l600-300"/>
+ <path clip-path="url(#Diagonals)" stroke="#cc142b" stroke-width="40" d="m0 0l600 300m-600 0l600-300"/>
+ <path stroke="#fff" stroke-width="100" d="m300 0v300m-300-150h600" clip-path="url(#Canton)"/>
+ <path stroke="#cc142b" stroke-width="60" d="m300 0v300m-300-150h600" clip-path="url(#Canton)"/>
+ <use xlink:href="#Pentagram" transform="translate(900,120) scale(45.4)" fill="#ffffff"/>
+ <use xlink:href="#Pentagram" transform="translate(900,120) scale(30)" fill="#cc142b"/>
+ <g transform="rotate(82,900,240)">
+  <use xlink:href="#Pentagram" transform="translate(900,120) rotate(-82) scale(40.4)" fill="#ffffff"/>
+  <use xlink:href="#Pentagram" transform="translate(900,120) rotate(-82) scale(25)" fill="#cc142b"/>
+  <use xlink:href="#Pentagram" transform="translate(900,380) rotate(-82) scale(45.4)" fill="#ffffff"/>
+  <use xlink:href="#Pentagram" transform="translate(900,380) rotate(-82) scale(30)" fill="#cc142b"/>
+ </g>
+ <use xlink:href="#Pentagram" transform="translate(900,480) scale(50.4)" fill="#ffffff"/>
+ <use xlink:href="#Pentagram" transform="translate(900,480) scale(35)" fill="#cc142b"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 180 120" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600">
+ <defs>
+  <g id="s" transform="translate(0,-36)">
+   <g id="f">
+    <g id="t">
+     <path id="o" transform="rotate(18,0,-5)" d="m0-5v5h3z" fill="#fff"/>
+     <use xlink:href="#o" transform="scale(-1,1)"/>
+    </g>
+    <use xlink:href="#t" transform="rotate(72)"/>
+   </g>
+   <use xlink:href="#t" transform="rotate(-72)"/>
+   <use xlink:href="#f" transform="rotate(144)"/>
+  </g>
+ </defs>
+ <path d="m0 0h180v120h-180z" fill="#cf142b"/>
+ <path d="m0 0h180v80h-180z" fill="#00247d"/>
+ <path d="m0 0h180v40h-180z" fill="#fc0"/>
+ <g transform="translate(90,84)">
+  <g id="4">
+   <g id="2">
+    <use xlink:href="#s" transform="rotate(10)"/>
+    <use xlink:href="#s" transform="rotate(30)"/>
+   </g>
+   <use xlink:href="#2" transform="rotate(40)"/>
+  </g>
+  <use xlink:href="#4" transform="rotate(-80)"/>
+ </g>
+</svg>

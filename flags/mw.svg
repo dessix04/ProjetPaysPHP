@@ -1,0 +1,25 @@
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg viewBox="-225 -114 450 300" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600">
+ <title>Flag of Malawi</title>
+ <rect y="-114" x="-225" height="300" width="450"/>
+ <g fill="#CE1126">
+  <circle r="64.5"/>
+  <rect y="-14" x="-225" height="100" width="450"/>
+  <g id="r16">
+   <g id="r8">
+    <g id="r4">
+     <g id="r2">
+      <path id="r" d="m0-102c-2.2 0-3 3.3-3 6.5 0 8 1 12 3 23.5 2.04-11.5 3-15.6 3-23.5 0-3.3-1-6.5-3-6.5"/>
+      <use xlink:href="#r" transform="rotate(5)"/>
+     </g>
+     <use xlink:href="#r2" transform="rotate(10)"/>
+    </g>
+    <use xlink:href="#r4" transform="rotate(20)"/>
+   </g>
+   <use xlink:href="#r8" transform="rotate(40)"/>
+  </g>
+  <use xlink:href="#r16" transform="rotate(-80)"/>
+ </g>
+ <rect y="-21.5" x="-225" height="7.5" width="450"/>
+ <rect y="86" x="-225" height="100" fill="#339E35" width="450"/>
+</svg>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>formulaire de test.</title>
+    <style type="text/css">
+     form {background-color:#CFC;}
+     fieldset {width:20em;text-align:right}
+    </style>
+  </head>
+  <body>
+    <form action="formulaire.php" method="get">
+      <fieldset>ID<input type="text" name="id" /></fieldset>
+      <fieldset>Nom<input type="text" name="nom" /></fieldset>
+      <fieldset>Code<input type="text" name="code" /></fieldset>
+      <input type="submit" value="Envoyer" />
+      <input type="submit" value="Modifier" onclick="location='modif.php'" />
+    </form>
+  </body>
+</html>

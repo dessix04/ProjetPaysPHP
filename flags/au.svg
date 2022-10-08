@@ -1,0 +1,26 @@
+<svg viewBox="0 0 10080 5040" width="1280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="640">
+ <defs>
+  <clipPath id="c">
+   <path d="m0 0v1.5h7v1.5h-1zm6 0h-3v3.5h-3v-0.5z"/>
+  </clipPath>
+  <path id="Star7" d="m0-360 69.421 215.84 212.04-80.3-125.47 188.86 194.98 115.71-225.88 19.648 31.11 224.59-156.2-164.35-156.2 164.35 31.11-224.59-225.88-19.652 194.98-115.71-125.47-188.86 212.04 80.3z"/>
+  <path id="Star5" d="m0-210 54.86 134.49 144.86 10.616-110.96 93.736 34.67 141.05-123.43-76.557-123.43 76.557 34.665-141.05-110.96-93.734 144.86-10.614z"/>
+  <use id="Cstar" xlink:href="#Star7" transform="scale(2.1)"/>
+ </defs>
+ <g transform="scale(840)">
+  <rect width="12" fill="#002776" height="6"/>
+  <path stroke="#fff" stroke-width=".6" d="m0 0 6 3m0-3-6 3"/>
+  <path stroke="#e00034" stroke-width=".4" d="m0 0 6 3m0-3-6 3" clip-path="url(#c)"/>
+  <path stroke="#fff" d="m3 0v3.5m-3-2h7"/>
+  <path stroke="#e00034" stroke-width=".6" d="m3 0v3.5m-3-2h7"/>
+  <path d="m0 3h6v-3h2v4h-8z" fill="#002776"/>
+ </g>
+ <g fill="#fff">
+  <use y="3780" x="2520" xlink:href="#Cstar"/>
+  <use y="4200" x="7560" xlink:href="#Star7"/>
+  <use y="2205" x="6300" xlink:href="#Star7"/>
+  <use y="840" x="7560" xlink:href="#Star7"/>
+  <use y="1869" x="8680" xlink:href="#Star7"/>
+  <use y="2730" x="8064" xlink:href="#Star5"/>
+ </g>
+</svg>
